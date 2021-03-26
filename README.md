@@ -2,7 +2,7 @@ Simple app made to get more comfortable communicating between ExpressJS and Reac
 
 ---
 
-Build from source or try it [here](https://placement.lindeneg.org/).
+Build from source or try it [here](https://placement-app.lindeneg.org/).
 
 Clone source
 
